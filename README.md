@@ -99,8 +99,11 @@ Unindo essa bagagem orientada à experiência do usuário com forte formação t
 ### 📈 Projetos em Destaque
 
 https://guihvasconcelos.atlassian.net/jira/software/projects/GS2GPFS9/boards/101 : Sprint 9 QA - Projeto Final - Relatórios de Bug - JIRA
+
 https://github.com/2901-ninho/QA_BRAZIL_Python_Automation_Sprint8_ : Sprint 8 QA - Teste de Automação do Urban Routes
+
 https://github.com/2901-ninho/QA-Brazil_Python_Automation : Sprint 7 QA - Urban Routes
+
 https://guihvasconcelos.atlassian.net/jira/software/projects/GS2GS5/boards/68?filter=&groupBy=none : Sprint 5 QA - Relatórios de Bug- JIRA
 
 ### 📫 Contatos
